@@ -18,5 +18,3 @@ Here are some commonly used Linux commands and their brief descriptions:
 - `man`: Display the manual page for a command.
 
 These are just a few examples of the many commands available in Linux. Each command has its own set of options and arguments, so make sure to refer to the command's manual page (`man <command>`) for more detailed information.
-
-If you have any specific questions about Linux commands or need assistance with any other topic, feel free to ask!
