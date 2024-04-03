@@ -1,0 +1,14 @@
+## Upcoming Feature: Network Configuration
+
+We are excited to announce that the upcoming release of CentOS 9 will include enhanced network configuration options. This new feature will provide administrators with more flexibility and control over their network settings.
+
+Key features of the Network Configuration module include:
+
+- Advanced IP address management
+- Support for VLANs and virtual interfaces
+- Improved network bonding and teaming options
+- Enhanced firewall configuration
+
+Stay tuned for the official release of CentOS 9, where we will provide detailed documentation on how to leverage these new network configuration capabilities.
+
+If you have any questions or feedback, please don't hesitate to reach out to our support team.
